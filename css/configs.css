@@ -1,0 +1,22 @@
+.adireita{
+    float: right;
+    text-align: justify;
+}
+
+.fonte10{
+    font-size: 70%;
+}
+
+.aesquerda{
+    text-align: left;
+}
+
+.holder {   
+    width: auto;
+    display: inline-block;    
+}
+  
+.holder img {
+    width: 70%; /* Will shrink image to 30% of its original width */
+    height: auto;    
+}​
