@@ -3,8 +3,12 @@
     text-align: justify;
 }
 
-.fonte10{
-    font-size: 70%;
+.fonte28{
+    font-size: 28px;
+}
+
+.fonte22{
+    font-size: 22px;
 }
 
 .aesquerda{
@@ -20,3 +24,7 @@
     width: 70%; /* Will shrink image to 30% of its original width */
     height: auto;    
 }​
+
+.rodape{
+    text-align: end;
+}
